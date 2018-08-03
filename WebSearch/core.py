@@ -18,5 +18,5 @@ class WebSearch(object):
     def close(self):
         self.driver.quit()
 
-    def search(self, key):
+    def search(self, query):
         pass
