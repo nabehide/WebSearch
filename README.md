@@ -1,6 +1,6 @@
 # WebSearch
 
-This is a python package that gets search results on Bing, Google and Yahoo.
+This is a python package that gets search results from Bing, Google and Yahoo.
 
 # Requirements
 
@@ -27,7 +27,7 @@ python setup.py install
 
 ## chromedriver
 
-Download chromedriver from [official site](http://chromedriver.chromium.org/downloads).
+Download chromedriver from [the official site](http://chromedriver.chromium.org/downloads).
 
 # Usage
 
